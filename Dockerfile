@@ -1,4 +1,4 @@
-FROM ghcr.io/arkadiuminc/az:main
+FROM ghcr.io/arkadiuminc/az:v2.46.0
 
 WORKDIR /usr/local/bin
 
